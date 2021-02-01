@@ -3,4 +3,4 @@ This webapp used to autogenerate the e-pass if your current city and your visiti
 
 # Working model
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/19g2eEA1nC0_WAYcj9ac9ZRVJpHBmo6CC/view)
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://drive.google.com/file/d/19g2eEA1nC0_WAYcj9ac9ZRVJpHBmo6CC/view)
